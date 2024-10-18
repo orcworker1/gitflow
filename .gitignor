@@ -1,5 +1,5 @@
 venv
 .idea
-
+__trash__
 __pycache__
 *.pyc
